@@ -1,1 +1,43 @@
 
+serc":[
+  {
+    "id":1,
+    "name": "Eva",
+    "age": 10,
+    "photo": "https://i.pinimg.com/originals/3c/e1/22/3ce1221461ce526a23a260b1d05d2f2a.jpg?nii=t
+    "balance": 15000,
+    "address": "EvaUnni586",
+    "email": "evaosadca744@gmail.com",
+    "password":228evaA822"
+  }
+{
+    "id":2,
+    "name": "Andrii",
+    "age": 101,
+    "photo": "
+    "address": "Andriiooo",
+    "email": "andrioo3760@gmail.com",
+    "password":228andriio6767"
+  }
+{
+    "id":3,
+    "name": cake",
+    "price":2800 ,
+    "photo": "https://tse4.mm.bing.net/th/id/OIP.cAgZoZCAaRugAyl19uvW5gHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3"
+    "address": "eva344",
+}
+"id":4,
+    "name": cake   roles",
+    "price":5002 ,
+    "photo": "https://look.com.ua/wp-content/uploads/df76e059af841d95c07e8eeeabe8770c.webp"
+    "address": "eva344",
+    
+}
+  }
+"id":5,
+    "name":pizza ",
+    "price":2000 ,
+    "photo": "https://tse4.mm.bing.net/th/id/OIP.VKQLb51XdlAaYx13xMoCnwHaHa?r=0&w=512&h=512&rs=1&pid=ImgDetMain&o=7&rm=3"
+    "address": "eva344",
+    
+}
